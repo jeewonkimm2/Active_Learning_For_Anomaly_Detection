@@ -1,4 +1,4 @@
-# Active_Learning_Anomaly_Detection
+# Active Learning Anomaly Detection Using Simple Data Augmentation
 
 - Dataset : [MVtec Dataset][link]
 - Goal : Great performance of classification using active learning and cutpaste augmentation on mvtec dataset for anomaly detection.
